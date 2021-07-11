@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Uchen&display=swap');
+
+html, body{
+    background-color: rgb(47, 165, 47);
+}
+
+.heading{
+    color : white;
+    font-family: 'Uchen', serif;
+}
+
+.desc{
+    color : white;
+    padding: 50px;
+    margin-left : 120px;
+    margin-right : 120px;
+}
+
+.clickMe{
+    margin:10px;
+    border-radius: 30px;
+    background-color: teal;
+}
